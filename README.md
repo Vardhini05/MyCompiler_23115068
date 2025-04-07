@@ -76,7 +76,7 @@ MyCompiler_23115106/
 
 
 
-The above are the two examples
+The above is an example
 ---
 ---
 
