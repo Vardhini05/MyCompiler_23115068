@@ -72,7 +72,7 @@ MyCompiler_23115106/
 
 
 ![Screenshot 2025-04-06 194622](https://github.com/user-attachments/assets/ff743cc7-a664-4b20-a775-e16f8b199979)
-![Screenshot 2025-04-06 194701](https://github.com/user-attachments/assets/73fc2623-a5e0-4432-824b-5d241ddfcb4d)
+
 
 
 
